@@ -2,13 +2,13 @@
 
 Welcome to the Bldrs GitHub organization.
 
-We’re building open, browser-native tools that let engineers, designers, and builders collaborate with AI around 3D models with the same ease and intelligence that modern software teams enjoy.
+We’re building open, browser-native tools that let engineers, designers, and builders collaborate with AI around CAD engineering models with the same ease and intelligence that modern software teams enjoy.
 
 ## What We’re Building
 
 ### Share
 
-[Share](https://github.com/bldrs-ai/Share) is a browser-based collaboration environment for sharing and exploring 3D engineering models.
+[Share](https://github.com/bldrs-ai/Share) is a browser-based collaboration environment for sharing and exploring CAD engineering models.
 
 - Instant share links for IFC and STEP
 - Real-time navigation with your team
